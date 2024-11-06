@@ -1,0 +1,16 @@
+.field-map {
+  height: 600px;
+  width: 100%;
+}
+
+.field-polygon {
+  fill: rgba(51, 136, 255, 0.3);
+  stroke: #3388ff;
+  stroke-width: 2;
+}
+
+.field-polygon-checked {
+  fill: rgba(76, 175, 80, 0.3);
+  stroke: #4CAF50;
+  stroke-width: 2;
+}

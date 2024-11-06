@@ -1,0 +1,12 @@
+{
+  "users": {
+    "rescueTeams": [
+      { "id": 1, "username": "rescuer1", "name": "Team 1" },
+      { "id": 2, "username": "rescuer2", "name": "Team 2" }
+    ],
+    "admin": {
+      "username": "admin"
+    }
+  },
+  "fields": []
+}
